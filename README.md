@@ -5,6 +5,8 @@
 Для сборки:
 
 mkdir build && cd build
+
 (cd ../src && make all)
+
 ./graph
 
